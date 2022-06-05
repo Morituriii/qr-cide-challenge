@@ -1,1 +1,1 @@
-# qr-cide-challenge
+# qr-code-challenge
