@@ -5,8 +5,8 @@ body{
 .qr-body{
     margin: 100px auto 100px auto;
     background-color: white;
-    width: 630px;
-    height: 1000px;
+    width: 633px;
+    height: 970px;
     border-radius: 40px;
 }
 .qr-code-pic{
